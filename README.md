@@ -260,14 +260,14 @@ IF restart_fails:
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=WIlltion-sudo&show_icons=true&theme=dracula&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WIlltion-sudo&layout=compact&theme=dracula&hide_border=true" />
-
+<p align="center">
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
 ---
